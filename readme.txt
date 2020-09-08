@@ -11,3 +11,4 @@ temperature_heartrate_results.txt: output from the R-script
 Temperate PNG File: contains the scatter plot
 
 Research Questions: contains the answers to data visualizations and Jaccard coefficients
+Statement: Production notice
