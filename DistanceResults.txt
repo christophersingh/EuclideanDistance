@@ -1,0 +1,2 @@
+Manhattan distance 107 
+Euclidean distance 46.61545 

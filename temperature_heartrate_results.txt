@@ -1,0 +1,22 @@
+   temperature gender heartRate
+1         98.4   male        84
+2         98.4   male        82
+3         98.2 female        65
+4         97.8 female        71
+5         98.0   male        78
+6         97.9   male        72
+7         99.0 female        79
+8         98.5   male        68
+9         98.8 female        64
+10        98.0   male        67
+11        97.4   male        78
+12        98.8   male        78
+  temperature        gender            heartRate    
+ Min.   : 96.30   Length:130         Min.   :57.00  
+ 1st Qu.: 97.80   Class :character   1st Qu.:69.00  
+ Median : 98.30   Mode  :character   Median :74.00  
+ Mean   : 98.25                      Mean   :73.76  
+ 3rd Qu.: 98.70                      3rd Qu.:79.00  
+ Max.   :100.80                      Max.   :89.00  
+[1] 7.062077
+[1] 0.7331832
